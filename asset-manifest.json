@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/static/css/main.436d5772.css",
+    "main.js": "/static/js/main.531b7b5a.js",
+    "static/media/shankar_s.png": "/static/media/shankar_s.7aab4bd0d8ee05eb0a0e.png",
+    "static/media/Third_project.png": "/static/media/Third_project.bcd4a0a1863b5cabe77f.png",
+    "static/media/client_project.png": "/static/media/client_project.9d3b382d213daa93c550.png",
+    "static/media/handhyfi.png": "/static/media/handhyfi.d26a006ba50f55012b5d.png",
+    "static/media/Second_project.png": "/static/media/Second_project.cc7f41aaa1e60f150bb0.png",
+    "static/media/shankar_profile.jpg": "/static/media/shankar_profile.f3f2a51ab533ec9df195.jpg",
+    "static/media/github.png": "/static/media/github.0721ae9f7631b49992c9.png",
+    "static/media/icon-react.webp": "/static/media/icon-react.12373323be05a0679294.webp",
+    "static/media/reactquery.webp": "/static/media/reactquery.8373216e4b018486c0c0.webp",
+    "static/media/toolkit.webp": "/static/media/toolkit.d394edd2af42fbf5b058.webp",
+    "static/media/css-3.webp": "/static/media/css-3.31dcfd314e4f7b04eca1.webp",
+    "static/media/html.webp": "/static/media/html.0dcdf95632dd3cdd6eb1.webp",
+    "static/media/mantine.webp": "/static/media/mantine.a3b4075d83e6b0d7996c.webp",
+    "static/media/icon-nextjs.webp": "/static/media/icon-nextjs.9cd41c40d7affe5af599.webp",
+    "static/media/mui.webp": "/static/media/mui.60d652b2c1e550fa7246.webp",
+    "static/media/icon-javscript.webp": "/static/media/icon-javscript.81bfe2b5bdd3277675bf.webp",
+    "static/media/bootstrap.webp": "/static/media/bootstrap.cc9750911a1aaaf46450.webp",
+    "static/media/github-logo.webp": "/static/media/github-logo.7a8c6405d2a37356aeba.webp",
+    "index.html": "/index.html",
+    "main.436d5772.css.map": "/static/css/main.436d5772.css.map",
+    "main.531b7b5a.js.map": "/static/js/main.531b7b5a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.436d5772.css",
+    "static/js/main.531b7b5a.js"
+  ]
+}
